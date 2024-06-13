@@ -1,0 +1,37 @@
+label{
+    color: rgb(246, 0, 41);
+    font-family: Andalus;
+}
+h1{
+   color: rgb(250, 162, 177);
+}
+
+span{
+    display: block;
+    color: red;
+}
+.login1{
+   display: none;
+}
+.login2{
+    display: none;
+ }
+ .login3{
+    display: none;
+ }
+ .login4{
+    display: none;
+ }
+ .login5{
+    display: none;
+ }
+ .login6{
+    display: none;
+ }
+ .login7{
+    display: none;
+ }
+
+.error{
+    border: 2px red solid;
+}
